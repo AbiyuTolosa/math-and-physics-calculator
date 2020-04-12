@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561759440 source:c:\abiyu's c++ projects\physics and math calculator\main.cpp
+	<iostream>
+	<cmath>
+
